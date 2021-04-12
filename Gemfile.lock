@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark (0.1.1)
+    minitest (5.14.4)
+    progressbar (1.11.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  benchmark
+  minitest
+  progressbar
+
+RUBY VERSION
+   ruby 2.7.1p83
+
+BUNDLED WITH
+   2.1.4
